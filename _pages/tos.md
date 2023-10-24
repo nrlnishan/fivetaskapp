@@ -20,7 +20,7 @@ We also use google Firebase platform to send you a push notification. This is so
 By using this app, You consent to all the privacy policies from above platforms.
 
 ## Data Collection & Privacy
-We take user privacy very seriously. We use apple's icloud platform for syncing your data. All the data are very private and tied to your apple id. Only you have access to your workout data. For maintaining and enriching the experience of the user, we collect some other analytics data. This helps us to fix any issues & enrich the app experience for you. We do not collect any analytics data that can be used to identify you and We do not sell or share any data with any other third parties. 
+We take user privacy very seriously. We use apple's icloud platform for syncing your data. All the data are very private and tied to your apple id. Only you have access to your data. For maintaining and enriching the experience of the user, we collect some other analytics data. This helps us to fix any issues & enrich the app experience for you. We do not collect any analytics data that can be used to identify you and We do not sell or share any data with any other third parties. 
 
 In the future, we may change our Data Collection & Privacy policy. All rights will be reserved to the 5 Tasks app.
 
